@@ -18,7 +18,7 @@ COPY src ./src
 
 COPY target ./target
 
-ADD target/dependency/* dependency/*
+#ADD target/dependency/* dependency/*
 #ADD target/myjarfile.jar myjarfile.jar
 #ADD target/myjarfile-tests.jar myjarfile-tests.jar
 
