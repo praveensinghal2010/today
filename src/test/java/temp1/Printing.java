@@ -9,6 +9,7 @@ public class Printing {
 
 	public static void main(String args[])
 	{
+		System.out.print("my code is  running");
 		WebDriver driver=null;
 		WebDriverManager.chromedriver().setup();
 		driver= new ChromeDriver();
