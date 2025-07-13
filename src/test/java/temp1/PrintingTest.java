@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Printingtest {
+public class PrintingTest {
 
 	public static void main(String args[])
 	{
